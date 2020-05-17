@@ -3,6 +3,6 @@
 {% block content %}
     <form method="post">{% csrf_token %}
         {{ form.as_p }}
-        <input type="submit" value="LogIn"/>
+        <input class="btn btn-success ml-2" type="submit" value="LogIn"/>
     </form>
 {% endblock content %}

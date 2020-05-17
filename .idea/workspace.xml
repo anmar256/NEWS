@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65b973c2-a3ea-4e8a-a51e-2901b2abc452" name="Default Changelist" comment="" />
+    <list default="true" id="65b973c2-a3ea-4e8a-a51e-2901b2abc452" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/newspaper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/newspaper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newspaper_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/newspaper_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newspaper_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/newspaper_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/signup.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +37,9 @@
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bzJA3tOPaMXvCW1i6XoMgcfUOz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,9 +48,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="newspaper" type="Python.DjangoServer" factoryName="Django server">
@@ -73,6 +90,9 @@
       <option name="presentableId" value="Default" />
       <updated>1589628841935</updated>
       <workItem from="1589628845775" duration="1104000" />
+      <workItem from="1589634554001" duration="503000" />
+      <workItem from="1589686588696" duration="251000" />
+      <workItem from="1589694908980" duration="13611000" />
     </task>
     <servers />
   </component>
@@ -80,17 +100,51 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589629221505">
-      <screen x="67" y="27" width="1299" height="741" />
+    <state x="132" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589634577710">
+      <screen x="0" y="27" width="1600" height="802" />
     </state>
+    <state x="132" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1600.802@0.27.1600.802" timestamp="1589634577710" />
     <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1589629221505" />
+    <state x="469" y="27" width="652" height="800" key="#newspaper" timestamp="1589634573600">
+      <screen x="0" y="27" width="1600" height="802" />
+    </state>
+    <state x="469" y="27" width="652" height="800" key="#newspaper/0.27.1600.802@0.27.1600.802" timestamp="1589634573600" />
+    <state x="365" y="27" width="860" height="802" key="CommitChangelistDialog2" timestamp="1589635037492">
+      <screen x="0" y="27" width="1600" height="802" />
+    </state>
+    <state x="365" y="27" width="860" height="802" key="CommitChangelistDialog2/0.27.1600.802@0.27.1600.802" timestamp="1589635037492" />
+    <state width="1554" height="196" key="GridCell.Tab.0.bottom" timestamp="1589708149952">
+      <screen x="0" y="27" width="1600" height="802" />
+    </state>
+    <state width="1554" height="196" key="GridCell.Tab.0.bottom/0.27.1600.802@0.27.1600.802" timestamp="1589708149952" />
+    <state width="1554" height="196" key="GridCell.Tab.0.center" timestamp="1589708149952">
+      <screen x="0" y="27" width="1600" height="802" />
+    </state>
+    <state width="1554" height="196" key="GridCell.Tab.0.center/0.27.1600.802@0.27.1600.802" timestamp="1589708149952" />
+    <state width="1554" height="196" key="GridCell.Tab.0.left" timestamp="1589708149952">
+      <screen x="0" y="27" width="1600" height="802" />
+    </state>
+    <state width="1554" height="196" key="GridCell.Tab.0.left/0.27.1600.802@0.27.1600.802" timestamp="1589708149952" />
+    <state width="1554" height="196" key="GridCell.Tab.0.right" timestamp="1589708149952">
+      <screen x="0" y="27" width="1600" height="802" />
+    </state>
+    <state width="1554" height="196" key="GridCell.Tab.0.right/0.27.1600.802@0.27.1600.802" timestamp="1589708149952" />
     <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1589628930829">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="263" height="500" key="HiddenNamespacesPopup/67.27.1299.741@67.27.1299.741" timestamp="1589628930829" />
-    <state x="205" y="31" key="SettingsEditor" timestamp="1589629144333">
-      <screen x="67" y="27" width="1299" height="741" />
+    <state x="170" y="31" key="SettingsEditor" timestamp="1589634636401">
+      <screen x="0" y="27" width="1600" height="802" />
     </state>
+    <state x="170" y="31" key="SettingsEditor/0.27.1600.802@0.27.1600.802" timestamp="1589634636401" />
     <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1589629144333" />
+    <state x="568" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589635048450">
+      <screen x="0" y="27" width="1600" height="802" />
+    </state>
+    <state x="568" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1600.802@0.27.1600.802" timestamp="1589635048450" />
+    <state x="463" y="150" width="672" height="678" key="search.everywhere.popup" timestamp="1589699656768">
+      <screen x="0" y="27" width="1600" height="802" />
+    </state>
+    <state x="463" y="150" width="672" height="678" key="search.everywhere.popup/0.27.1600.802@0.27.1600.802" timestamp="1589699656768" />
   </component>
 </project>
